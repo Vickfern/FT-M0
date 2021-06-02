@@ -1,0 +1,12 @@
+CONCEPTOS:
+
+* Variables: Son aquellas que permiten guardar información para ser utilizada después.
+
+* Strings: Tipo de dato, se presenta en forma de texto (bloques de caracteres) que se definen por estar entre comillas. 
+
+* Funciones (argumentos, `return`): Líneas de código que realizan una tarea específica al recibir información a través de un argumento,
+                                    la procesan y devuelven algún valor.
+
+* Declaraciones `if`: Sirve para evaluar si una condición se cumple o no, para poder ejecutar una sentencia.
+
+* Valores booleanos (`true`, `false`): Tipo de dato binario el cuál solo tiene 2 valores (True o false).
