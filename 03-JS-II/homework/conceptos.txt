@@ -1,0 +1,8 @@
+
+CONCEPTOS:
+
+FOR:Es una estructura de control que se usa en el código para repetir una instrucción o tarea un número determinado de veces,
+    también se le conoce como bucle.
+
+&& (AND), || (OR) y ! (NOT): Son operadores lógicos cuya función es evaluar dos condiciones con base en una tabla de verdad para
+                             determinar si el valor es verdadero o falso.
