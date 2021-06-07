@@ -1,0 +1,4 @@
+CONCEPTO:
+
+Arrays: Son variables que pueden almacenar muchos valores, 
+puede contener más de un valor a la vez o iniciar vacia.
