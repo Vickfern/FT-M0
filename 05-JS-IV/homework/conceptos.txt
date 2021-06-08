@@ -1,0 +1,11 @@
+CONCEPTOS:
+
+Objetos: Es un conjunto de propiedades.
+Propiedades: Es una relación de nombre y valor que pueden describir a un objeto.
+Métodos:Es una propiedad que cuenta con una función, la cuál ejecuta ciertos procesos.
+Bucle `for…in`:Es el metodo para recorrer cada una de las propiedades en un objeto, puede
+                devolver dicha propiedad o su valor.
+Notación de puntos vs notación de corchetes: Es la forma de declarar e ingresar a las
+                propiedades de un objeto. Notación de puntos se realiza solo con un "."
+                antes de la propiedad, mientras que corchetes lo realiza a través de []
+                y encerrando el valor entre "".
