@@ -1,0 +1,4 @@
+CONCEPTO.
+
+Función Callback: Una función que recibe por parámetros otra función y la invoca dentro
+de la misma.
