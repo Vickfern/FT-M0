@@ -1,0 +1,4 @@
+CONCEPTOS:
+
+Prototype: Es un objeto que contiene propiedades nativas de JS que sirven a otros objetos creados.
+Constructors: Es código que crea las propiedades de las clases.
